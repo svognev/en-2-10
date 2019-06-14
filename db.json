@@ -1,0 +1,34 @@
+{
+    "features": [
+      {
+        "title": "User toolbar",
+        "text": "How could you know who is currently working on the document? Well, basically you couldn’t. But from now on the active user’s toolbar is located right before your eyes meaning you can instantly recognize the online user by the small green mark near his/her avatar. In case there are many users involved in the document editing, only a few icons will be displayed followed by the “+10” etc. number.\n\nWant to see the full list of document users? Click on any avatar you like. The “Manage users” window will be displayed. And there you have it!",
+        "icon": "https://i.ibb.co/4dvzCH2/10-1.png",
+        "image": "https://i.ibb.co/6DnzyHq/im01.png"
+      },
+      {
+        "title": "Inline images",
+        "text": "Are you familiar with the concept of inline images? These are immensely helpful if you should solely concentrate on the text content but still want to have a sneak peak on the relevant images. Small-sized inline images are inserted right into the text section and can be enlarged any time. E.g. you can add an inline image of an exclamation mark to define the text spot as of a great significance or criticality, the inline image of an equation etc. It’s all up to you how to use it!\n\nA nice bonus: you can also insert inline images in tables.",
+        "icon": "https://i.ibb.co/T48v4kx/10-2.png",
+        "image": "https://i.ibb.co/jVL74Yj/im02.png"
+      },
+      {
+        "title": "Free positionable directories",
+        "text": "Many of you asked: Can I position a directory at the document’s end? But why only restrict yourself with the directory positioned either at the beginning or at the end? We decided to go for no limitations - place/move it wherever you want alike the ordinary text section.\n\nOne click on the directory opens it’s full version i.e. with all content inside.\n\nNote that inserted free positionable directories will always appear in the exported document unlike standard table of content that can be deactivated before exporting.",
+        "icon": "https://i.ibb.co/MSBQ1PR/10-3.png",
+        "image": "https://i.ibb.co/PGmdzYp/im03.png"
+      },
+      {
+        "title": "Export rights",
+        "text": "We enriched our user management with an additional “Export” right. From now on the user with the “Admin” role can control whether other users are allowed to export the document.\n\nOnce the right to export the document does not exist, the user can also no longer duplicate it.",
+        "icon": "https://i.ibb.co/DGg7n5B/10-4.png",
+        "image": "https://i.ibb.co/TmLThpL/im04.png"
+      },
+      {
+        "title": "Shortcuts for formatting",
+        "text": "You wanted to set paragraph formattings simply by selecting a text section and using the relevant shortcut. Our SMASHDOCs team developed the shortcuts individually configurable for each clients system.\n\nHow to identify what shortcuts work for you? Head to the formatting menu, mouse over likeable paragraph style for the tooltip to be displayed. Keyboard shortcuts are time savers when constantly dealing with text formatting. Eventually, you won’t need to open the formatting menu anymore!",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/9Z0jQBZ/im05.png"
+      }
+    ]
+}
