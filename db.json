@@ -22,13 +22,13 @@
         "title": "Export rights",
         "text": "We enriched our user management with an additional “Export” right. From now on the user with the “Admin” role can control whether other users are allowed to export the document.\n\nOnce the right to export the document does not exist, the user can also no longer duplicate it.",
         "icon": "https://i.ibb.co/DGg7n5B/10-4.png",
-        "image": "https://i.ibb.co/TmLThpL/im04.png"
+        "image": "https://i.ibb.co/9Z0jQBZ/im05.png"
       },
       {
         "title": "Shortcuts for formatting",
         "text": "You wanted to set paragraph formattings simply by selecting a text section and using the relevant shortcut. Our SMASHDOCs team developed the shortcuts individually configurable for each clients system.\n\nHow to identify what shortcuts work for you? Head to the formatting menu, mouse over likeable paragraph style for the tooltip to be displayed. Keyboard shortcuts are time savers when constantly dealing with text formatting. Eventually, you won’t need to open the formatting menu anymore!",
         "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
-        "image": "https://i.ibb.co/9Z0jQBZ/im05.png"
+        "image": "https://i.ibb.co/TmLThpL/im04.png"
       }
     ]
 }
